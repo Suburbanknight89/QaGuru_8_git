@@ -39,4 +39,5 @@ target/
 /gradlew.bat
 .todo
 *.properties
-*setting.gradle
+!/settings.gradle
+src/
